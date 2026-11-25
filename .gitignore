@@ -1,0 +1,12 @@
+# Rahasia operator
+password.txt
+kunjaw.md
+kunjaw_toThePoint.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor / OS files
+.DS_Store
+.vscode/
